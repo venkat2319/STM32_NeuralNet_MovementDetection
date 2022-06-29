@@ -16,10 +16,3 @@ The goals are :
 * Accelerometer (ADXL345 used in this project)
 * STM32 : STM32L476RG (Nucleo) used here
 
-# Credits
-Four motivated Esisar students !
-* Louka BARRIERE
-* Gauthier CANET
-* Romain LE DONGE
-* Alexandre MORICEAU
-
